@@ -1,0 +1,1 @@
+{"piton": "sys.argv", "test": "clipboard.copy(data[key])"}
